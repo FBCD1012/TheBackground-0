@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9264c0ec-f393-4400-ab92-7c58eb2d904e" name="变更" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/files/%M$GM6DCUC%E]5JPR{MI01T.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/15041036_a2f1083fa5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/GAU3tUyXAAAGpHt.jfif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/QQå¾ç20231027165352.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/v2-2a72ccd8ac9a0c889b79d9ad021ef08e_720w.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/å¾®ä¿¡å¾ç_20231119205809.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2ZIc9hsX2quTUSqLmMMwwQ9rojV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DELOMBOK_PRE_COMMIT": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9264c0ec-f393-4400-ab92-7c58eb2d904e" name="变更" comment="" />
+      <created>1702112885954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702112885954</updated>
+      <workItem from="1702112887179" duration="1235000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1702114111463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702114111463</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>
